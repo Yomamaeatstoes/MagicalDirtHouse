@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DirtHouse:jar">
+    <output-path>$USER_HOME$/Desktop/Servers/boop/plugins</output-path>
+    <root id="archive" name="DirtHouse.jar">
+      <element id="module-output" name="DirtHouse" />
+    </root>
+  </artifact>
+</component>

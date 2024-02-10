@@ -1,0 +1,9 @@
+name: DirtHouse
+version: '${project.version}'
+main: ori.me.dirthouse.DirtHouse
+api-version: '1.20'
+depend:
+  - FastAsyncWorldEdit
+commands:
+  dirt:
+    description: dirt
